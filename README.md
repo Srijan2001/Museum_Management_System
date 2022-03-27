@@ -1,4 +1,4 @@
-# Museum_Management_System
+# Museum Management System
 
 A Database Management System for Museum for easier maintenance.
 The Project is built using Visual C# (Visual Studio) for Frontend and MySql for Backend.
